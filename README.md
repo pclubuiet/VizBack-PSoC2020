@@ -1,2 +1,3 @@
 # VizBack-PSoC2020
-Mentor: Charanjit Singh (charanjitdotsingh@gmail.com)
+
+This project is being managed at https://gitlab.com/vizback
